@@ -1,5 +1,5 @@
 ## Olá, eu me chamo Gabriel Ramos 👋
-<br><br>Sou estudante do curso de Ciência da Computação na UESC, atualmente no segundo semestre, busco uma oportunidade profissional para aplicar meus conhecimentos no ambiente corporativo.<br><br>Atualmente venho me dedicando a construir uma base sólida em lógica de programação, estrutura de dados e algoritmos, visando o desenvolvimento backend e o objetivo de evoluir para uma atuação full-stack com C# e ASP.NET.
+Sou estudante do curso de Ciência da Computação na UESC, atualmente no segundo semestre, busco uma oportunidade profissional para aplicar meus conhecimentos no ambiente corporativo.<br><br>Atualmente venho me dedicando a construir uma base sólida em lógica de programação, estrutura de dados e algoritmos, visando o desenvolvimento backend e o objetivo de evoluir para uma atuação full-stack com C# e ASP.NET.
 
 
 ## 🌐 Socials:
