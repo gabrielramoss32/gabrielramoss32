@@ -31,4 +31,4 @@
 ###
 
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=gabrielramoss32&theme=shadow_blue&hide_border=false)![](https://github-readme-stats.shion.dev/api?username=gabrielramoss32&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=gabrielramoss32&theme=shadow_blue&hide_border=false)
