@@ -3,7 +3,7 @@
 
 ###
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/gabrielframos/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -31,6 +31,6 @@
 ###
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=gabrielramoss32&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=gabrielramoss32&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=gabrielramoss32&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gabrielramoss32&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
