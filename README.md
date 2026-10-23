@@ -29,8 +29,16 @@ Venho desenvolvendo uma base lógica nos fundamentos da programação e computa�
 ###
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=gabrielramoss32&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)![](https://streak-stats.demolab.com/?user=gabrielramoss32&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gabrielramoss32&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com/?user=gabrielramoss32&theme=transparent&hide_border=false" height="180em" />
+  <img src="https://github-readme-stats.shion.dev/api?username=gabrielramoss32&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gabrielramoss32&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+</div>
 
 ###
 
