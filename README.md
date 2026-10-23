@@ -1,10 +1,10 @@
 ## 🤖 About me:
-Olá, me chamo Gabriel Ramos, sou estudante do curso de Ciência da Computação na UESC, atualmente no segundo semestre, busco uma oportunidade profissional para aplicar meus conhecimentos no ambiente corporativo. Gosto de resolver problemas e valorizar a arquitetura de um sistema, garantindo com que ele funcione da melhor forma possível.
+Olá, me chamo Gabriel Ramos, sou estudante do curso de Ciência da Computação na UESC, atualmente no segundo semestre. Busco minha primeira oportunidade profissional na área de tecnologia, com o objetivo de aplicar meus conhecimentos, desenvolver minhas habilidades e contribuir para a construção de soluções de software. Gosto de resolver problemas e tenho interesse na organição do código e arquitetura de sistemas.
 
 ###
 
 ## 🧠 What I have been learning:
-Venho desenvolvendo uma base lógica nos fundamentos da programação e computação, como algoritmos, lógica de programação e estruturas de dados atráves da linguagem C. Possuo um direcionamento focado no desenvolvimento de software com o ecossistema C# e ASP.NET, e com o objetivo de evoluir para uma atuação full-stack.
+Venho desenvolvendo uma base lógica na computação, principalmente em algoritmos, lógica de programação e estruturas de dados atráves da linguagem C. Atualmente, direciono meus estudos para o desenvolvimento backend com C# e ASP.NET, com planos de expandir meus conhecimentos para o desenvolvimento full-stack.
 
 ###
 
@@ -33,10 +33,6 @@ Venho desenvolvendo uma base lógica nos fundamentos da programação e computa�
 
   <img src="https://streak-stats.demolab.com/?user=gabrielramoss32&theme=transparent&hide_border=false" height="180em" />
   <img src="https://github-readme-stats.shion.dev/api?username=gabrielramoss32&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
-  
-  <br/>
-
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gabrielramoss32&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 </div>
 
